@@ -26,7 +26,7 @@ body {
   background: #5D6D7E;
 }
 
-/* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
+/* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line */
 .navbar li {
   display: d-block;
   padding: 10px;
@@ -54,9 +54,9 @@ p{
 .latitude {
   color: white;
   font-family: verdana;
-  font-size: 40px;
-  background-color: #2874A6;
-  border: 1px solid #2874A6;
+  font-size: 50px;
+  background-color: #5d6d7e;
+  border: 1px solid #5d6d7e;
     padding: 15px;
 }
 /* Adding media queries to show the drop-down, and hide the navbar when the screen is smaller than 480 pixels */
